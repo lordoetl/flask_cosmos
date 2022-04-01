@@ -1,5 +1,6 @@
 import os
 # PUt all of you settings here
+# you can hard code them in this file.. or better yet... use configuration in the app service plan
 # settings = {
 #     'host': os.environ.get('ACCOUNT_HOST', 'https://demo-dataviz.documents.azure.com:443/'),
 #     'master_key': os.environ.get('ACCOUNT_KEY', ''),
